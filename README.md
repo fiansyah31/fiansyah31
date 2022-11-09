@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fiansyah31
+- 👋 Hi, I’m alfian syahputra
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning web developer
 - 💞️ I’m looking to collaborate on with senior developers and gain knowledge with them
